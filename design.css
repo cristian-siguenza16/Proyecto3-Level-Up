@@ -1,0 +1,31 @@
+div.center {
+    padding: 297px;
+    text-align: center;
+    margin: 0;
+	box-sizing: border-box;
+}
+
+label.cadenaFont {
+    padding: 10px 5px;
+    font-size: 20px;
+    color: white;
+    font-family: Arial;
+    border-width: 4px;
+    border-radius: 6px;
+    margin: 10px;
+    background-color: black;
+}
+
+button.config {
+    position: below;
+    padding: 1px 25px;
+    font-size: large;
+    font-family: Arial;
+    cursor: pointer;
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    border-style: double;
+    border-radius: 6px;
+    margin-top: 50px;
+}
